@@ -1,5 +1,7 @@
-#about Me
+# About Me
 a simple food ordering website.
 
-#getting started.
-firstly run npm install after clowing the files
+# Getting started.
+run "npm install" after cloning the repo
+run "npm start"
+
